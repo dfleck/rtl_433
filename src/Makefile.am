@@ -42,6 +42,7 @@ rtl_433_SOURCES      = abuf.c \
                        devices/ambientweather_tx8300.c \
                        devices/ambientweather_wh31e.c \
                        devices/archos_tbh.c \
+                       devices/auriol_aft77b2.c \
                        devices/auriol_afw2a1.c \
                        devices/auriol_ahfl.c \
                        devices/auriol_hg02832.c \
@@ -99,6 +100,7 @@ rtl_433_SOURCES      = abuf.c \
                        devices/holman_ws5029.c \
                        devices/hondaremote.c \
                        devices/honeywell.c \
+                       devices/honeywell_cm921.c \
                        devices/honeywell_wdb.c \
                        devices/ht680.c \
                        devices/ibis_beacon.c \
@@ -173,6 +175,7 @@ rtl_433_SOURCES      = abuf.c \
                        devices/tpms_citroen.c \
                        devices/tpms_elantra2012.c \
                        devices/tpms_ford.c \
+                       devices/tpms_hyundai_vdo.c \
                        devices/tpms_jansite.c \
                        devices/tpms_jansite_solar.c \
                        devices/tpms_pmv107j.c \
